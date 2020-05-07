@@ -1,0 +1,1 @@
+select svsdate from dual;
