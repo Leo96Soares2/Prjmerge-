@@ -1,1 +1,1 @@
-select svsdate from dual;
+select svsdate *from dual;
